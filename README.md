@@ -1,6 +1,6 @@
 ### Product of Array Except Self | Medium |
 
-[]![Local Image](https://github.com/realestateexplorer/CodingInterview/blob/main/assets/Screenshot_125054.png)
+![Local Image](https://github.com/realestateexplorer/CodingInterview/blob/main/assets/Screenshot_125054.png)
 
 ![Local Image](https://github.com/realestateexplorer/CodingInterview/blob/main/assets/Screenshot_125115.png)
 ![Local Image](https://github.com/realestateexplorer/CodingInterview/blob/main/assets/Screenshot_125150.png)
